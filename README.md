@@ -4,3 +4,7 @@
 ### 程式檔
 + 商業會計項目表 [accounts.prolog](accounts.prolog)
   + 原始資料：[商業會計項目表.pdf](data_source/商業會計項目表.pdf)
++ [ ] 簿記基本程式
++ [ ] 謄帳程式
++ [ ] 產製報表程式
++ [ ] 分錄作業規範
